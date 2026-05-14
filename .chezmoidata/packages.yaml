@@ -16,6 +16,5 @@ packages:
     - obsidian
     - cursor
     - ghostty
-    - supaterm
     - 1password
     - 1password-cli
