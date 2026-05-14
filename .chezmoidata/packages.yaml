@@ -1,0 +1,21 @@
+packages:
+  darwin:
+    brews:
+    - gh
+    - git
+    - git-lfs
+    - mise
+    - neovim
+    - chezmoi
+    - lazygit
+    - libyaml
+    - ripgrep
+
+    casks:
+    - slack
+    - obsidian
+    - cursor
+    - ghostty
+    - supaterm
+    - 1password
+    - 1password-cli
