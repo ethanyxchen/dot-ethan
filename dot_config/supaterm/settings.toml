@@ -1,0 +1,18 @@
+
+[appearance]
+mode = "dark"
+
+[notifications]
+glowing_pane_ring = true
+system_notifications = false
+
+[privacy]
+analytics_enabled = true
+crash_reports_enabled = true
+
+[terminal]
+new_tab_position = "end"
+restore_layout = true
+
+[updates]
+channel = "stable"

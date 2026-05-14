@@ -1,0 +1,8 @@
+[tools]
+chezmoi = "latest"
+gh = "2.89.0"
+node = "latest"
+npm = "latest"
+pnpm = "latest"
+python = "3.12"
+ripgrep = "latest"
