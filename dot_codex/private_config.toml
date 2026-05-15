@@ -50,50 +50,6 @@ terminal_title = [ "project", "status", "task-progress" ]
 [tui.model_availability_nux]
 "gpt-5.5" = 4
 
-[projects."/Users/ethanchen/Projects/paddington/frontend"]
-trust_level = "trusted"
-
-[projects."/Users/ethanchen/Projects/paddington/frontend-wt-1"]
-trust_level = "trusted"
-
-[projects."/Users/ethanchen/Projects/paddington/frontend-wt-2"]
-trust_level = "trusted"
-
-[projects."/Users/ethanchen/Projects/paddington/frontend-wt-3"]
-trust_level = "trusted"
-
-
-[projects."/Users/ethanchen/Projects/train-ticker"]
-trust_level = "trusted"
-
-[projects."/Users/ethanchen/Projects/paddington/goodwork"]
-trust_level = "trusted"
-
 [projects."/private/tmp"]
 trust_level = "trusted"
 
-[hooks.state]
-
-[hooks.state."/Users/ethanchen/.codex/hooks.json:post_tool_use:0:0"]
-trusted_hash = "sha256:cac5ef53a0ad14665671bd82e27f5a9515c6935eddff6a0ff9a347d42ca75bc8"
-
-[hooks.state."/Users/ethanchen/.codex/hooks.json:pre_tool_use:0:0"]
-trusted_hash = "sha256:05a7039a88f9aa8d4b5ace0a162b7cf80b3c3bfa8af05cb1ea1f94f0be7680d0"
-
-[hooks.state."/Users/ethanchen/.codex/hooks.json:session_start:0:0"]
-trusted_hash = "sha256:7b028ea2888ad0c1846b09a8cfd4902229b96a2e84747ac972e71e179fb78845"
-
-[hooks.state."/Users/ethanchen/.codex/hooks.json:stop:0:0"]
-trusted_hash = "sha256:4ef1edd2112f1e4cd4dfb954a2d72ec715bc32a8821e07dbb09502bbcff73684"
-
-[hooks.state."/Users/ethanchen/.codex/hooks.json:user_prompt_submit:0:0"]
-trusted_hash = "sha256:f4f03fdc4aa7a92bcd2b2098a822113f8c7a6ef72904ee25ebf4110b2668308b"
-
-[hooks.state."/Users/ethanchen/Projects/paddington/frontend-wt-1/.codex/hooks.json:session_start:0:0"]
-trusted_hash = "sha256:cd269ed24382ee0afbb573ef99652e1b1a2720c3e27f9d974a7db1876eb0193f"
-
-[hooks.state."/Users/ethanchen/Projects/paddington/frontend-wt-1/.codex/hooks.json:stop:0:0"]
-trusted_hash = "sha256:51c07be73eab190b6db858a2aceb65b9db6d28419e3d4045d837d3033a78c6e7"
-
-[hooks.state."/Users/ethanchen/Projects/paddington/frontend-wt-1/.codex/hooks.json:user_prompt_submit:0:0"]
-trusted_hash = "sha256:92cf8cfc3aa52a525ba7f4885109d50026ab1c2e1f29b195fe3520d92a0ebe43"
